@@ -1,4 +1,4 @@
-package com.java.casestudy;
+package com.java.casestudy.ECommerceApp;
 
 @FunctionalInterface
 public interface Discountable {

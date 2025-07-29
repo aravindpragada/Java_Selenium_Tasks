@@ -1,4 +1,4 @@
-package com.java.casestudy;
+package com.java.casestudy.ECommerceApp;
 
 public class Books extends Product {
     private String author;

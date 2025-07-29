@@ -1,4 +1,4 @@
-package com.java.casestudy;
+package com.java.casestudy.ECommerceApp;
 
 public class CashOnDelivery extends Payment {
     public CashOnDelivery(double amount) {

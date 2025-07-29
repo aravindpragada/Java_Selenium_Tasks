@@ -1,4 +1,4 @@
-package com.java.casestudy;
+package com.java.casestudy.ECommerceApp;
 
 import java.util.Arrays;
 
@@ -9,7 +9,7 @@ public class ECommerceApp {
         Product book = new Books("B301", "Atomic Habits", 499, 5, "James Clear");
         Product table = new Furniture("F404", "Dining Table", 9999, 1, "Wood");
 
-        Customer customer = new Customer("Akhil Reddy", "akhil@example.com");
+        Customer customer = new Customer("Aravind Pragada", "aravindp@email.com");
 
         Order order = new Order(customer, Arrays.asList(phone, shirt, book, table));
 

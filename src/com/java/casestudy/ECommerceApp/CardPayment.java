@@ -1,4 +1,4 @@
-package com.java.casestudy;
+package com.java.casestudy.ECommerceApp;
 
 public class CardPayment extends Payment {
     private String cardNumber;
